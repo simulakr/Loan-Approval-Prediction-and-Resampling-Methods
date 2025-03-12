@@ -3,8 +3,11 @@
 * Oversampling
 * SMOTE
 * Undersampling
+## Base Model Confusuion Matrix
+![Base Model Confusuion Matrix](Base_Model_Confusion_Matrix.PNG)
 
-![Base Model Confusuion Matrix](Base Model Confusuion Matrix.PNG)
+## After Undersampling
+![Base Model Confusuion Matrix](After_Undersampling.PNG)
 
 * We used various sampling methods to more accurately estimate the minority class in imbalanced datasets.
 * We wanted to increase the Recall metric as a priority.
